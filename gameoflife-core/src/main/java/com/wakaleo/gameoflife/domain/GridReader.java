@@ -28,6 +28,7 @@ public class GridReader {
             }
             cellsInRow.add(cell);
         }
+        int t =5;
         return cellsInRow.toArray(new Cell[0]);
     }
 
